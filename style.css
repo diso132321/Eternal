@@ -1,0 +1,11 @@
+body {
+    background-color: ghostwhite;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    display: flex;
+    justify-content: center;
+}
